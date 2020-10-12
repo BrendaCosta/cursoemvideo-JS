@@ -1,4 +1,3 @@
-
 # Esse repositório faz parte dos meus estudos de Javascript!
 > [Curso básico de javascript - Curso em Vídeo](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&t=0s&ab_channel=CursoemV%C3%ADdeo) 
 - Eu fiz com o objetivo de me preparar para aprender a fundo o VUE.JS, com uma base de js mais solida
@@ -65,7 +64,7 @@ num.sort() // para colocar em ordem crescente
 num. indexOf(8) // para achar a posição de um elemento | se por acaso o numero não existir dentro do vetor, ele vai retornar -1
 ~~~
 
-### Para otimizar o uso do for dentro de vetor, criaram o for in
+### Para otimizar o uso do for dentro de vetor usamos o for in
 ~~~
 for (indice in nome do array){ // 
     para cada indice dentro do array...
