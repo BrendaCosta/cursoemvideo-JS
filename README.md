@@ -5,11 +5,11 @@
 - O curso é bem básico e o Guanabara tem uma didática maravilhosa
 - Foi um dos poucos cursos de programação que consegui terminar no meio da pandemia
 - Durante o curso foi realizado alguns desafios: 
-  - [Pegar o horario do sistema operacional e mostrar uma mensagem conforme a hora]()
-  - Verificador de idade exibindo uma imagem conforme a idade do usuário
-  - Contador com possibilidade de pular casas
-  - Gerador de tabuadas
-  - Analisador de números para aprender sobre arrays e funções
+  - [Pegar o horario do sistema operacional e mostrar uma mensagem conforme a hora](https://github.com/BrendaCosta/cursoemvideo-JS/tree/main/Condi%C3%A7%C3%B5es/atv1%20-%20Hora%20do%20Dia)
+  - [Verificador de idade exibindo uma imagem conforme a idade do usuário](https://github.com/BrendaCosta/cursoemvideo-JS/tree/main/Condi%C3%A7%C3%B5es/atv2%20-%20Verificador%20de%20idade)
+  - [Contador com possibilidade de pular casas](https://github.com/BrendaCosta/cursoemvideo-JS/tree/main/Repeti%C3%A7%C3%B5es/atv1%20-%20Vamos%20Contar)
+  - [Gerador de tabuadas](https://github.com/BrendaCosta/cursoemvideo-JS/tree/main/Repeti%C3%A7%C3%B5es/atv2%20-%20Tabuada)
+  - [Analisador de números para aprender sobre arrays e funções](https://github.com/BrendaCosta/cursoemvideo-JS/tree/main/Fun%C3%A7%C3%B5es/atv1%20-%20Analisador%20de%20N%C3%BAmeros)
 
 ## Aprendizados/Dicas que achei importantes
 
