@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Atividade 02</title>
+</head>
+
+<body>
+  <h1>Você é de onde?</h1>
+  Digite onde você nasceu: <input type="text" name="" id="nacionalidade">
+  <input type="button" value="Verificar" onclick="verificar()">
+  <div id="resposta"></div>
+  <script>
+
+
+    function verificar() {
+      var pais = window.document.getElementById('nacionalidade')
+      var divResposta = window.document.getElementById('resposta')
+      var paisInput = pais.value
+
+
+      if (paisInput == "Brasil") {
+        divResposta.innerHTML = "Você é Brasileira"
+        divResposta.innerHTML += `<p>Porque você nasceu <strong>${paisInput}</strong> </p>`
+      } else {
+        divResposta.innerHTML = "Você é estrangeira"
+        divResposta.innerHTML += `<p>Porque você nasceu  <strong>${paisInput}</strong> </p>`
+      }
+
+    }
+
+
+
+
+  </script>
+
+
+
+</body>
+
+</html>
